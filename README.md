@@ -4,4 +4,4 @@
 
 🌱 I’m currently learning NodeJS Express and Clustering. 
 
-📫 How to reach me: me@igsteven.com
+📫 How to reach me: me@igsteven.com or by Linkedin https://www.linkedin.com/in/igsteven/
